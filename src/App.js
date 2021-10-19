@@ -9,12 +9,12 @@ import VolumeDownIcon from "@material-ui/icons/VolumeDown";
 import VolumeUpIcon from "@material-ui/icons/VolumeUp";
 import VolumeOffIcon from "@material-ui/icons/VolumeOff";
 
-import uc from "./assets/image/uc.png";
+import uc from "./assets/image/uc16.svg";
 
 const useStyles = makeStyles({
   root: {
-    width: "400",
-    height: "400",
+    width: "300",
+    height: "300",
   },
   largeIcon: {
     fontSize: "3em",
